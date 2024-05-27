@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B94DD1FA2C03EA5A00656836 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = B94DD1F92C03EA5A00656836 /* Readme.md */; };
 		B990AD322C02570D00307854 /* RogramApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B990AD312C02570D00307854 /* RogramApp.swift */; };
 		B990AD342C02570D00307854 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B990AD332C02570D00307854 /* ContentView.swift */; };
 		B990AD362C02570F00307854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B990AD352C02570F00307854 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B94DD1F92C03EA5A00656836 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		B990AD2E2C02570D00307854 /* Rogram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rogram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B990AD312C02570D00307854 /* RogramApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RogramApp.swift; sourceTree = "<group>"; };
 		B990AD332C02570D00307854 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		B990AD252C02570D00307854 = {
 			isa = PBXGroup;
 			children = (
+				B94DD1F92C03EA5A00656836 /* Readme.md */,
 				B990AD302C02570D00307854 /* Rogram */,
 				B990AD2F2C02570D00307854 /* Products */,
 			);
@@ -189,6 +192,7 @@
 			files = (
 				B990AD392C02570F00307854 /* Preview Assets.xcassets in Resources */,
 				B990AD362C02570F00307854 /* Assets.xcassets in Resources */,
+				B94DD1FA2C03EA5A00656836 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
